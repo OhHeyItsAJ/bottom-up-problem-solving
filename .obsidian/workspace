@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "1c4f730baab6416b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1010a38e49718b15",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sample data/Additional Fullfillment Methods.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00014bf329f8d636",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2adaf8ecec48ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84d7c1fa8c3173e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60836a7e60168037",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#solution",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7189cc8b343d5d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b8024bb4016a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718fd55b43650659",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sample data/Additional Fullfillment Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd7aef260a0605cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1010a38e49718b15",
+  "lastOpenFiles": [
+    "sample data/Additional Fullfillment Methods.md",
+    "sample data/dedicated order app.md",
+    "sample data/faster shipping.md",
+    "sample data/Krusty Krab.md",
+    "sample data/customer pickup.md",
+    "readme.md",
+    "templates/solution template.md",
+    "templates/opportunity template.md",
+    "templates/data template.md",
+    "sample data/free shipping.md"
+  ]
+}
